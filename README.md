@@ -1,0 +1,11 @@
+```sh
+go build
+
+./bn256-miller-precalc 1431ad41f72571346c81f248fb86519f434e9d1c775654dd1375c0084137349c \
+                       04b49904e75d7cb0573d0965258f07498f2235e43e4565b7799837128d6c2471 \
+                       2a181ee7fcc6cf49dcbd6fe79bda0b5878d06faeeb0c1294ad767b58ab6dfcc3 \
+                       230a251c98347bc4b02d22b27fba724483157ab7dfa1059b43adcecaf986a468 \
+                       06c763425dee53dc5b663e763517c75fc7f872f6f9ea0196e80ca56e0cf93c3f \
+                       117c1209e00335e68ef48dd8c8e8c2cbef4d55371d5fe3f04b10776482ea03ca 
+
+```
